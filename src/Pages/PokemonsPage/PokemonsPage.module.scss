@@ -1,0 +1,9 @@
+.allcards {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 20px;
+}
+.singlecard {
+  border: 1px solid black;
+  padding: 20px;
+}
